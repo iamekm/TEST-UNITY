@@ -1,0 +1,16 @@
+{
+"companyName": "Emma-Kate Matthews",
+"productName": "SPATIAL-DRAWING",
+"productVersion": "3.0",
+"dataUrl": "WEB-GL-3.data.unityweb",
+"wasmCodeUrl": "WEB-GL-3.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEB-GL-3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
